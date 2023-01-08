@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "map": [
+                {
+                    "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/res/merged/debug/values-fi/values-fi.xml",
+            "map": [
+                {
+                    "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
