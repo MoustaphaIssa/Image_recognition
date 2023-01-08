@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/google_sign_in_android/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/f9011fad2406768f4f4b0a6ca622dade/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

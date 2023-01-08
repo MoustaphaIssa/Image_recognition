@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/moustapha/Documents/Dossier-polytech-tours/COURS/flutter_app/projet/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/moustapha/.gradle/caches/transforms-3/a7171519a4cefc78aca0d23f743534b9/transformed/core-1.8.0/res/drawable/notification_tile_bg.xml"
+    }
+]
